@@ -59,7 +59,7 @@ Posters, Demos, and Extended Abstracts
 4. [Trimmer: Context-Specific Code Reduction](https://dl.acm.org/doi/10.1145/3551349.3559529)  
    *IEEE/ACM ASE, 2022.*  
    Aatira Anum Ahmad, **Mubashir Anwar**, Hashim Sharif, Ashish Gehani, Fareed Zaffar.<br> 
-   [Paper](https://dl.acm.org/doi/10.1145/3551349.3559529) | [Code](https://github.com/ashish-gehani/Trimmer)
+   [Paper](https://dl.acm.org/doi/10.1145/3551349.3559529) | [Code](https://github.com/ashish-gehani/Trimmer) | [Demo](https://www.youtube.com/watch?v=kYiyTT51jQ0)
 
 
 
