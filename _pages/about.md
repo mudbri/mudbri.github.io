@@ -9,7 +9,7 @@ redirect_from:
 
 Bio
 ------
-I am a Computer Science PhD candidate at the University of Illinois Urbana-Champaign (UIUC), working with Professor Matthew Caesar. My research lies at the intersection of large language models, distributed systems, and network resilience, with a focus on developing robust and efficient systems to address real-world challenges in computing and AI.
+I am a Computer Science PhD candidate at the University of Illinois Urbana-Champaign (UIUC), working with Professor Matthew Caesar. My research lies at the intersection of large language models, distributed systems, and network resilience, with a focus on developing robust and efficient systems to address real-world challenges in network systems and AI.
 
 I earned my undergraduate degree from the Lahore University of Management Sciences, where I worked with Professor Fareed Zaffar on projects involving software debloating and deepfake detection.
 
