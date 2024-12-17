@@ -12,7 +12,7 @@ locale                   : "en-US"
 title_separator          : "-"
 name                     : &name "Mubashir Anwar"
 description              : &description "personal description"
-url                      : https://mudbri.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mubashiranwar.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mudbri.github.io"
 
