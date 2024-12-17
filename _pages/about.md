@@ -9,7 +9,9 @@ redirect_from:
 
 <!-- Bio
 ------ -->
+I am a PhD candidate at the University of Illinois Urbana-Champaign (UIUC), working with Professor Matthew Caesar. My research focuses on the intersection of large language models, distributed systems, and network resilience. I am committed to building robust and efficient systems that address real-world challenges in computing and Generative AI.
 
+I completed my undergraduate studies at Lahore University of Management Sciences, where I collaborated with Professor Fareed Zaffar on projects focused on software debloating and deepfake detection.
 
 Publications
 ------
@@ -23,7 +25,7 @@ Publications
    <!-- [Paper](https://dl.acm.org/doi/abs/10.1145/3411764.3445699) | [Code](https://github.com/nsgLUMS/cellclone) -->
 
 3. **FORTIFY: Software Defined Data Plane Resilience.**  
-   *IEEE NFV/SDN, 2022.*  – <span style="color:red;">**Best Paper Award**</span><br>
+   *IEEE NFV/SDN, 2022.*  – <span style="color:red;">Best Paper Award</span><br>
   Umar Farooq, **Mubashir Anwar**, Haris Noor, Rashid Tahir, Santhosh Prabhu, Ali Kheradmand, Matthew Caesar, Fareed Zaffar.<br> 
    [Paper](https://ieeexplore.ieee.org/abstract/document/9974617)
 

@@ -21,7 +21,7 @@ repository               : "mudbri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Mubashir Anwar"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science PhD Candidate\nUniversity of Illinois at Urbana-Champaign"
