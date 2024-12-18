@@ -21,13 +21,14 @@ Publications
 
 2. **Verifying Multi-Vendor IoT Deployments using Conditional Tables.**  
    *EAI MobiQuitous 2024.*  
-   **Mubashir Anwar**, Matthew Caesar, Anduo Wang.
+   **Mubashir Anwar**, Matthew Caesar, Anduo Wang.<br>
+   [Presentation](https://youtu.be/Qa9CQI--lBI)
    <!-- [Paper](https://dl.acm.org/doi/abs/10.1145/3411764.3445699) | [Code](https://github.com/nsgLUMS/cellclone) -->
 
 3. \[Demo\][Structural Network Minimization: A Case of Reflective Networking](https://dl.acm.org/doi/abs/10.1145/3603269.3610847)  
    *ACM SIGCOMM, 2023.*  
    **Mubashir Anwar**, Anduo Wang, Fangping Lan, Matthew Caesar.<br>
-    [Paper](https://dl.acm.org/doi/abs/10.1145/3603269.3610847)  
+    [Paper](https://dl.acm.org/doi/abs/10.1145/3603269.3610847) | [Demo](https://youtu.be/cvWV-ku__gY) 
 
 4. \[Poster\][Indirect Network Troubleshooting with The Chase](https://dl.acm.org/doi/abs/10.1145/3600061.3603137)  
    *APNet 2023.*  
