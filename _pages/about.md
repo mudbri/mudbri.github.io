@@ -55,7 +55,7 @@ Publications
    Aatira Anum Ahmad, Abdul Rafae Noor, Hashim Sharif, Usama Hameed, Shoaib Asif, **Mubashir Anwar**, Ashish Gehani, Fareed Zaffar, Junaid Haroon Siddiqui.<br>
    [Paper](https://ieeexplore.ieee.org/document/9478582) | [Code](https://github.com/ashish-gehani/Trimmer)
 
-9. [Seeing is Believing: Exploring Perceptual Differences in DeepFake Videos](https://dl.acm.org/doi/abs/10.1145/3411764.3445699)  
+[Seeing is Believing: Exploring Perceptual Differences in DeepFake Videos](https://dl.acm.org/doi/abs/10.1145/3411764.3445699)  
    *CHI, 2021.*  
    Rashid Tahir, Brishna Batool, Hira Jamshed, Mahnoor Jameel, **Mubashir Anwar**, Faizan Ahmed, Muhammad Adeel Zaffar, Muhammad Fareed Zaffar.<br> 
    [Paper](https://dl.acm.org/doi/abs/10.1145/3411764.3445699)
