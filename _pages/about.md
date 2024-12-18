@@ -22,13 +22,13 @@ Publications
 **Verifying Multi-Vendor IoT Deployments using Conditional Tables.**  
    *EAI MobiQuitous, 2024.*  
    **Mubashir Anwar**, Matthew Caesar, Anduo Wang.<br>
-   [Presentation video](https://youtu.be/Qa9CQI--lBI)
+   [Presentation Video](https://youtu.be/Qa9CQI--lBI)
    <!-- [Paper](https://dl.acm.org/doi/abs/10.1145/3411764.3445699) | [Code](https://github.com/nsgLUMS/cellclone) -->
 
 [(Demo) Structural Network Minimization: A Case of Reflective Networking](https://dl.acm.org/doi/abs/10.1145/3603269.3610847)  
    *ACM SIGCOMM, 2023.*  
    **Mubashir Anwar**, Anduo Wang, Fangping Lan, Matthew Caesar.<br>
-    [Paper](https://dl.acm.org/doi/abs/10.1145/3603269.3610847) | [Demo video](https://youtu.be/cvWV-ku__gY) 
+    [Paper](https://dl.acm.org/doi/abs/10.1145/3603269.3610847) | [Demo Video](https://youtu.be/cvWV-ku__gY) 
 
 [(Poster) Indirect Network Troubleshooting with The Chase](https://dl.acm.org/doi/abs/10.1145/3600061.3603137)  
    *APNet, 2023.*  
@@ -48,7 +48,7 @@ Publications
 [(Demo) Trimmer: Context-Specific Code Reduction](https://dl.acm.org/doi/10.1145/3551349.3559529)  
    *IEEE/ACM ASE, 2022.*  
    Aatira Anum Ahmad, **Mubashir Anwar**, Hashim Sharif, Ashish Gehani, Fareed Zaffar.<br> 
-   [Paper](https://dl.acm.org/doi/10.1145/3551349.3559529) | [Code](https://github.com/ashish-gehani/Trimmer) | [Demo video](https://www.youtube.com/watch?v=kYiyTT51jQ0)
+   [Paper](https://dl.acm.org/doi/10.1145/3551349.3559529) | [Code](https://github.com/ashish-gehani/Trimmer) | [Demo Video](https://www.youtube.com/watch?v=kYiyTT51jQ0)
 
 [Trimmer: An Automated System for Configuration-Based Software Debloating](https://ieeexplore.ieee.org/document/9478582)  
    *IEEE Transactions on Software Engineering, 2021.*  
