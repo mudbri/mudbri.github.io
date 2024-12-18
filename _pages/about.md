@@ -20,23 +20,23 @@ Publications
    **Mubashir Anwar**, Matthew Caesar.<br>[Code](https://github.com/mudbri/LLM-Network-Eval)
 
 2. **Verifying Multi-Vendor IoT Deployments using Conditional Tables.**  
-   *EAI MobiQuitous 2024.*  
+   *EAI MobiQuitous, 2024.*  
    **Mubashir Anwar**, Matthew Caesar, Anduo Wang.<br>
    [Presentation](https://youtu.be/Qa9CQI--lBI)
    <!-- [Paper](https://dl.acm.org/doi/abs/10.1145/3411764.3445699) | [Code](https://github.com/nsgLUMS/cellclone) -->
 
-3. (Demo) [Structural Network Minimization: A Case of Reflective Networking](https://dl.acm.org/doi/abs/10.1145/3603269.3610847)  
+3. [Structural Network Minimization: A Case of Reflective Networking (Demo)](https://dl.acm.org/doi/abs/10.1145/3603269.3610847)  
    *ACM SIGCOMM, 2023.*  
    **Mubashir Anwar**, Anduo Wang, Fangping Lan, Matthew Caesar.<br>
     [Paper](https://dl.acm.org/doi/abs/10.1145/3603269.3610847) | [Demo](https://youtu.be/cvWV-ku__gY) 
 
-4. (Poster) [Indirect Network Troubleshooting with The Chase](https://dl.acm.org/doi/abs/10.1145/3600061.3603137)  
-   *APNet 2023.*  
+4. [Indirect Network Troubleshooting with The Chase (Poster)](https://dl.acm.org/doi/abs/10.1145/3600061.3603137)  
+   *APNet, 2023.*  
    **Mubashir Anwar**, Fangping Lan, Anduo Wang, Matthew Caesar.<br> 
     [Paper](https://dl.acm.org/doi/abs/10.1145/3600061.3603137) 
 
-5. (Workshop) [Structural Semantics Management: an Application of the Chase in Networking](https://www.computer.org/csdl/proceedings-article/mascots/2023/10387636/1TKR5FvZiBq)  
-   *MASCOTS 2023.*  
+5. [Structural Semantics Management: an Application of the Chase in Networking (Workshop)](https://www.computer.org/csdl/proceedings-article/mascots/2023/10387636/1TKR5FvZiBq)  
+   *MASCOTS, 2023.*  
    Anduo Wang, **Mubashir Anwar**, Fangping Lan, Matthew Caesar.<br> 
   [Paper](https://www.computer.org/csdl/proceedings-article/mascots/2023/10387636/1TKR5FvZiBq)
 
@@ -45,7 +45,7 @@ Publications
   Umar Farooq, **Mubashir Anwar**, Haris Noor, Rashid Tahir, Santhosh Prabhu, Ali Kheradmand, Matthew Caesar, Fareed Zaffar.<br> 
   [Paper](https://ieeexplore.ieee.org/abstract/document/9974617) 
 
-7. (Demo) [Trimmer: Context-Specific Code Reduction](https://dl.acm.org/doi/10.1145/3551349.3559529)  
+7. [Trimmer: Context-Specific Code Reduction (Demo)](https://dl.acm.org/doi/10.1145/3551349.3559529)  
    *IEEE/ACM ASE, 2022.*  
    Aatira Anum Ahmad, **Mubashir Anwar**, Hashim Sharif, Ashish Gehani, Fareed Zaffar.<br> 
    [Paper](https://dl.acm.org/doi/10.1145/3551349.3559529) | [Code](https://github.com/ashish-gehani/Trimmer) | [Demo](https://www.youtube.com/watch?v=kYiyTT51jQ0)
@@ -56,6 +56,6 @@ Publications
    [Paper](https://ieeexplore.ieee.org/document/9478582) | [Code](https://github.com/ashish-gehani/Trimmer)
 
 9. [Seeing is Believing: Exploring Perceptual Differences in DeepFake Videos](https://dl.acm.org/doi/abs/10.1145/3411764.3445699)  
-   *CHI 2021.*  
+   *CHI, 2021.*  
    Rashid Tahir, Brishna Batool, Hira Jamshed, Mahnoor Jameel, **Mubashir Anwar**, Faizan Ahmed, Muhammad Adeel Zaffar, Muhammad Fareed Zaffar.<br> 
    [Paper](https://dl.acm.org/doi/abs/10.1145/3411764.3445699)
