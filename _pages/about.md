@@ -33,7 +33,7 @@ Publications
 4. [Indirect Network Troubleshooting with The Chase (Poster)](https://dl.acm.org/doi/abs/10.1145/3600061.3603137)  
    *APNet, 2023.*  
    **Mubashir Anwar**, Fangping Lan, Anduo Wang, Matthew Caesar.<br> 
-    [Paper](https://dl.acm.org/doi/abs/10.1145/3600061.3603137) 
+    [Paper](https://dl.acm.org/doi/abs/10.1145/3600061.3603137) | [Poster](https://mudbri.github.io/files/APNet23-IndirectIndirectNetworkTroubleshootingwithTheChas-4thDraft.pdf)
 
 5. [Structural Semantics Management: an Application of the Chase in Networking (Workshop)](https://www.computer.org/csdl/proceedings-article/mascots/2023/10387636/1TKR5FvZiBq)  
    *MASCOTS, 2023.*  
