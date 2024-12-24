@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Mubashir Anwar"
 author_profile: true
 redirect_from: 
   - /about/
