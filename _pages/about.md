@@ -15,12 +15,12 @@ Publications
 ------
 **Understanding Misunderstandings: Evaluating LLMs on Networking Questions.**  
    *ACM SIGCOMM CCR, 2024.*  
-   **Mubashir Anwar**, Matthew Caesar.<br>[Code](https://github.com/mudbri/LLM-Network-Eval)
+   **Mubashir Anwar**, Matthew Caesar.<br>[PDF](https://mudbri.github.io/files/Understanding_Misunderstandings_Evaluating_LLMs_on_Networking_Questions.pdf) | [Code](https://github.com/mudbri/LLM-Network-Eval)
 
 **Verifying Multi-Vendor IoT Deployments using Conditional Tables.**  
    *EAI MobiQuitous, 2024.*  
    **Mubashir Anwar**, Matthew Caesar, Anduo Wang.<br>
-   [Presentation Video](https://youtu.be/Qa9CQI--lBI)
+   [PDF](https://mudbri.github.io/files/Verifying_Multi_Vendor_IoT_Deployments_using_Conditional_Tables___MobiQuitous_2024.pdf) | [Presentation Video](https://youtu.be/Qa9CQI--lBI)
    <!-- [Paper](https://dl.acm.org/doi/abs/10.1145/3411764.3445699) | [Code](https://github.com/nsgLUMS/cellclone) -->
 
 [(Demo) Structural Network Minimization: A Case of Reflective Networking](https://dl.acm.org/doi/abs/10.1145/3603269.3610847)  
