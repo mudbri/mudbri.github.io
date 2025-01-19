@@ -36,7 +36,7 @@ Publications
 [(Workshop) Structural Semantics Management: an Application of the Chase in Networking ](https://www.computer.org/csdl/proceedings-article/mascots/2023/10387636/1TKR5FvZiBq)  
    *MASCOTS, 2023.*  
    Anduo Wang, **Mubashir Anwar**, Fangping Lan, Matthew Caesar.<br> 
-  <!-- [Paper](https://www.computer.org/csdl/proceedings-article/mascots/2023/10387636/1TKR5FvZiBq) -->
+  [PDF](https://mudbri.github.io/files/MASCOTS23.pdf)
 
 [FORTIFY: Software Defined Data Plane Resilience](https://ieeexplore.ieee.org/abstract/document/9974617)  
    *IEEE NFV/SDN, 2022.*  <span style="color:red;">- Best Paper Award</span><br>
