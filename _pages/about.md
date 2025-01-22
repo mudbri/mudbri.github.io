@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!-- 
 I am a fourth-year PhD candidate in Computer Science at the University of Illinois Urbana-Champaign (UIUC), working with Professor [Matthew Caesar](https://caesar.cs.illinois.edu/). My research lies at the intersection of large language models, distributed systems, and network resilience, with a focus on developing robust and efficient systems to address real-world challenges in network systems and AI.
 
 I earned my undergraduate degree from the Lahore University of Management Sciences, where I worked with Professor Fareed Zaffar on projects involving software debloating and deepfake detection.
@@ -22,7 +22,7 @@ Publications
    **Mubashir Anwar**, Matthew Caesar, Anduo Wang.<br>
    [PDF](https://mudbri.github.io/files/Verifying_Multi_Vendor_IoT_Deployments_using_Conditional_Tables___MobiQuitous_2024.pdf) | [Presentation Video](https://youtu.be/Qa9CQI--lBI)
    <!-- [Paper](https://dl.acm.org/doi/abs/10.1145/3411764.3445699) | [Code](https://github.com/nsgLUMS/cellclone) -->
-
+<!-- 
 [(Demo) Structural Network Minimization: A Case of Reflective Networking](https://dl.acm.org/doi/abs/10.1145/3603269.3610847)  
    *ACM SIGCOMM, 2023.*  
    **Mubashir Anwar**, Anduo Wang, Fangping Lan, Matthew Caesar.<br>
@@ -56,4 +56,4 @@ Publications
 [Seeing is Believing: Exploring Perceptual Differences in DeepFake Videos](https://dl.acm.org/doi/abs/10.1145/3411764.3445699)  
    *CHI, 2021.*  
    Rashid Tahir, Brishna Batool, Hira Jamshed, Mahnoor Jameel, **Mubashir Anwar**, Faizan Ahmed, Muhammad Adeel Zaffar, Muhammad Fareed Zaffar.<br> 
-   [PDF](https://mudbri.github.io/files/DeepFakes___After_Rebuttal.pdf)
+   [PDF](https://mudbri.github.io/files/DeepFakes___After_Rebuttal.pdf) --> -->
